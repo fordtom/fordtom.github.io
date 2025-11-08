@@ -46,6 +46,9 @@
 			<a href="/projects" class="nav-link" class:active={isActive('/projects')}>
 				<span>Projects</span>
 			</a>
+			<a href="/writing" class="nav-link" class:active={isActive('/writing')}>
+				<span>Writing</span>
+			</a>
 		</nav>
 	</header>
 
