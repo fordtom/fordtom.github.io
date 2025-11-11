@@ -15,6 +15,12 @@
 <svelte:head>
 	<link rel="icon" href={favicon} />
 	<link rel="preload" as="image" href="https://github.com/fordtom.png" />
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
+	<link
+		href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&display=swap"
+		rel="stylesheet"
+	/>
 </svelte:head>
 
 <div class="mx-auto max-w-[700px]">

@@ -29,8 +29,10 @@
 	style="transition-delay: 500ms"
 >
 	I'm an embedded software engineer based in Switzerland, currently working on next-generation
-	automotive power electronics. I relocated from the UK in 2023 after completing a first-class MEng
-	in Mechatronics and Robotics at Leeds.
+	automotive power electronics at
+	<a href="https://www.brusahypower.com/home/" class="link-animated">BRUSA HyPower AG</a>
+	. I relocated from the UK in 2023 after completing a first-class MEng
+	in Mechatronics and Robotics at the University of Leeds.
 </p>
 
 <p
