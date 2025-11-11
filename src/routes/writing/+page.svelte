@@ -22,7 +22,7 @@
 		style={`transition-delay: ${i * 100}ms`}
 	>
 		<h3 class="mb-1.5 text-[1.3em] font-semibold">
-			<a href={`/writing/${e.slug}`} class="link-underline text-black dark:text-white">
+			<a href={`/writing/${e.slug}`} class="link-underline text-[#e2e2e3]">
 				{e.title}
 			</a>
 		</h3>
