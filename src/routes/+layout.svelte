@@ -1,7 +1,6 @@
 <script lang="ts">
 	import '../app.css';
 	import { page } from '$app/stores';
-	import favicon from '$lib/assets/favicon.svg';
 	import { fade, fly } from 'svelte/transition';
 
 	const { children } = $props();
@@ -13,7 +12,6 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
 	<link rel="preload" as="image" href="https://github.com/fordtom.png" />
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
